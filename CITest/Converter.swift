@@ -13,7 +13,7 @@ class Converter {
     func converter(name: String) -> String {
         
         let numberSymbols: [(name: String, symbol: String)] =
-          [("doggo", "🐶"),
+          [("doggo", "😼"),
            ("cat", "😼"),
            ("horse", "🐴"),
            ("monkey","🐵"),
