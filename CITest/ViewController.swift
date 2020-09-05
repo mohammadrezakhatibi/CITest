@@ -10,9 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let converter = Converter()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
+        print(converter.converter(name: "lion"))
+        print(converter.converter(name: "doggo"))
     }
 
 

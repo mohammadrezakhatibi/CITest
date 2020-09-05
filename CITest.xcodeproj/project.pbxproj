@@ -14,6 +14,7 @@
 		E42C06AA25039147004CD41B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E42C06A925039147004CD41B /* Assets.xcassets */; };
 		E42C06AD25039147004CD41B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E42C06AB25039147004CD41B /* LaunchScreen.storyboard */; };
 		E42C06B825039147004CD41B /* CITestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42C06B725039147004CD41B /* CITestTests.swift */; };
+		E42C06C325039202004CD41B /* Converter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E42C06C225039202004CD41B /* Converter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		E42C06B325039147004CD41B /* CITestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CITestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E42C06B725039147004CD41B /* CITestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CITestTests.swift; sourceTree = "<group>"; };
 		E42C06B925039147004CD41B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E42C06C225039202004CD41B /* Converter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Converter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				E42C06A225039144004CD41B /* SceneDelegate.swift */,
 				E42C06A425039144004CD41B /* ViewController.swift */,
 				E42C06A625039144004CD41B /* Main.storyboard */,
+				E42C06C225039202004CD41B /* Converter.swift */,
 				E42C06A925039147004CD41B /* Assets.xcassets */,
 				E42C06AB25039147004CD41B /* LaunchScreen.storyboard */,
 				E42C06AE25039147004CD41B /* Info.plist */,
@@ -202,6 +205,7 @@
 			files = (
 				E42C06A525039144004CD41B /* ViewController.swift in Sources */,
 				E42C06A125039144004CD41B /* AppDelegate.swift in Sources */,
+				E42C06C325039202004CD41B /* Converter.swift in Sources */,
 				E42C06A325039144004CD41B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
