@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         
         
         print(converter.converter(name: "lion"))
+        print(converter.converter(name: "lion"))
         print(converter.converter(name: "doggo"))
     }
 
